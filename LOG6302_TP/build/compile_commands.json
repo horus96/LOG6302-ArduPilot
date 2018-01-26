@@ -1,0 +1,13 @@
+[
+{
+  "directory":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests",
+  "command":"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/bin/clang /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp",
+  "file":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp"
+},
+{
+  "directory":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests",
+  "command":"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/bin/clang /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example2.cpp",
+  "file":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example2.cpp"
+}
+
+]

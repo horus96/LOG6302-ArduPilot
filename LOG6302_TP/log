@@ -1,0 +1,21 @@
+[LOG6302]_Visite_classe_Foo_ 
+[LOG6302]_Traverse_methode_bar_ (../tests/LOG6302_TP1_example.cpp:7)_
+[LOG6302]_Visite_condition_if_
+[LOG6302]_Visite_boucle_for_
+[LOG6302]_Visite_decl_
+[LOG6302]_Fin_traverse_methode_bar_
+[LOG6302]_Traverse_methode_boo_ (../tests/LOG6302_TP1_example.cpp:14)_
+[LOG6302]_Visite_decl_
+[LOG6302]_Visite_condition_if_
+[LOG6302]_Visite_boucle_while_
+[LOG6302]_Visite_condition_if_
+[LOG6302]_Visite_saut_break_
+[LOG6302]_Visite_saut_continue_
+[LOG6302]_Fin_traverse_methode_boo_
+[LOG6302]_Visite_decl_
+[LOG6302]_Visite_condition_if_
+[LOG6302]_Visite_boucle_while_
+[LOG6302]_Visite_condition_if_
+[LOG6302]_Visite_saut_break_
+[LOG6302]_Visite_saut_continue_
+

@@ -1,0 +1,22 @@
+Using clang's libraries version 3.3
+[100%] /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp
+[LOG6302]__Visite__classe__Foo__ 
+[LOG6302]__Traverse__methode__bar__ (/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp:7)_
+[LOG6302]__Visite__condition__if__
+[LOG6302]__Visite__boucle__for__
+[LOG6302]__Visite__decl__
+[LOG6302]__Fin__traverse__methode__bar__
+[LOG6302]__Traverse__methode__boo__ (/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp:14)_
+[LOG6302]__Visite__decl__
+[LOG6302]__Visite__condition__if__
+[LOG6302]__Visite__boucle__while__
+[LOG6302]__Visite__condition__if__
+[LOG6302]__Visite__saut__break__
+[LOG6302]__Visite__saut__continue__
+[LOG6302]__Fin__traverse__methode__boo__
+[LOG6302]__Visite__decl__
+[LOG6302]__Visite__condition__if__
+[LOG6302]__Visite__boucle__while__
+[LOG6302]__Visite__condition__if__
+[LOG6302]__Visite__saut__break__
+[LOG6302]__Visite__saut__continue__
