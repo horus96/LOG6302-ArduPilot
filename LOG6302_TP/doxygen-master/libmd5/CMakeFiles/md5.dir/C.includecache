@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/libmd5/md5.c
+string.h
+-
+sys/types.h
+-
+md5.h
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/libmd5/md5.h
+
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/libmd5/md5.h
+md5_loc.h
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/libmd5/md5_loc.h
+
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/libmd5/md5_loc.h
+

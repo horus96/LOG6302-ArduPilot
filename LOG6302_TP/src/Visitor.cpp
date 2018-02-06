@@ -81,11 +81,15 @@ bool Visitor::TraverseCXXMethodDecl(clang::CXXMethodDecl *D) {
   if (!D->isThisDeclarationADefinition()) {
     return true;
   }
+  
+  
+  
 
   clang::FullSourceLoc location = context_.getFullLoc(D->getLocStart());
 
   std::string  file_path   = context_.getSourceManager().getFileEntryForID(location.getFileID())->getName();
   unsigned int line_number = location.getSpellingLineNumber();
+
 
   std::cout
     <<"[LOG6302]__Traverse__methode__"

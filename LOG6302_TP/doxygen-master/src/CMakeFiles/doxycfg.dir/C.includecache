@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/doxygen-master/src/portable_c.c
+AvailabilityMacros.h
+-
+iconv.h
+-
+

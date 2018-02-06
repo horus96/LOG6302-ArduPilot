@@ -1,13 +1,12 @@
 [
 {
-  "directory":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests",
-  "command":"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/bin/clang /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp",
-  "file":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example.cpp"
+  "directory": "/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/build",
+  "command": "/usr/bin/c++  -DLLVM_PATH=\\\"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18\\\" -D_GLIBCXX_USE_CXX11_ABI=0 -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -I/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/include   -fno-rtti   -std=gnu++11 -o CMakeFiles/LOG6302.dir/src/main.cpp.o -c /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/src/main.cpp",
+  "file": "/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/src/main.cpp"
 },
 {
-  "directory":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests",
-  "command":"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/bin/clang /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example2.cpp",
-  "file":"/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/tests/LOG6302_TP1_example2.cpp"
+  "directory": "/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/build",
+  "command": "/usr/bin/c++  -DLLVM_PATH=\\\"/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18\\\" -D_GLIBCXX_USE_CXX11_ABI=0 -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -I/home/local/cours/INF6603/clang+llvm-3.3-x86_64-fedora18/include   -fno-rtti   -std=gnu++11 -o CMakeFiles/LOG6302.dir/src/Visitor.cpp.o -c /usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/src/Visitor.cpp",
+  "file": "/usagers/kajula/Documents/LOG6302_TP/LOG6302_TP/src/Visitor.cpp"
 }
-
 ]

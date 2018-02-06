@@ -1,5 +1,5 @@
 import csv
-file_object  = open('../LOG6302_TP/build/loog2')
+file_object  = open('../LOG6302_TP/build/loog')
 
 
 a= file_object.readline()
